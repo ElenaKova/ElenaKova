@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elena!</h1>
 <h3 align="center">I am beginner, Frontend Developer from Ukraine.</h3>
 
-- 🔭 I’m currently working on **react-app-weather**
+- 🔭 I’m currently working on **react-weather**
 - 👀 I also improve my Software Development skills with **FreeCodeCamp**
 - 📫 How to reach me **emailelenakv@gmail.com**
 
