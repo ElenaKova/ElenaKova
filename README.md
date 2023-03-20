@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<h1 align="center">Hi, I'm Elena!</h1>
+<h3 align="center">I am beginner, Frontend Developer from Ukraine.</h3>
+
+- 🔭 I’m currently working on **react-app-weather**
+- 👀 I also improve my Software Development skills with **FreeCodeCamp**
+- 📫 How to reach me **emailelenakv@gmail.com**
+
+
 <!--
 **ElenaKova/ElenaKova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
